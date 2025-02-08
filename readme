@@ -3,3 +3,6 @@ vlan 10
 
 vlan 803
  name RES3
+
+vlan 801
+ name RES1
